@@ -52,6 +52,28 @@ La devoción de las tribus mantiene vivas y poderosas a estas fuerzas. En agrade
 
 Las fuerzas de la Trinidad no pueden intervenir directamente en el mundo físico. La razón exacta de esta limitación es **PENDIENTE / MISTERIO**.
 
+### Hijos de Nal-Ur
+
+Los **Orcos, Goblins, Hobgoblins y Bugbears** comparten el antiguo sobrenombre de **Hijos de Nal-Ur**. El término expresa una tradición cosmológica común, no superioridad sobre otras razas.
+
+Según su comprensión religiosa, estas cuatro razas surgieron en las mismas grandes épocas que las demás especies y evolucionaron biológicamente como parte natural del mundo. Esto no contradice su fe: consideran que Nal-Ur intervino en el desarrollo de sus pueblos a través de generaciones y familias, guiando y cobijando a sus hijos para que desarrollaran las cualidades que necesitarían para sobrevivir y afrontar los acontecimientos futuros.
+
+Nal-Ur, como Familia, **les dio forma**. Esto puede entenderse como la orientación del desarrollo de sus pueblos: favoreciendo que determinadas familias heredaran y conservaran características adecuadas a sus necesidades y circunstancias. La resistencia, el camuflaje, la fuerza, la inteligencia y otras cualidades pueden ser explicadas simultáneamente mediante evolución natural y mediante la acción de Nal-Ur. Para los Hijos de Nal-Ur, ambas explicaciones describen aspectos diferentes del mismo proceso.
+
+Garnok, como Honor, **les da guía**. No impone una definición única de bien y mal, sino que representa uno de los tres principios que permiten ordenar las decisiones individuales y colectivas.
+
+Dae'ra, como Destino, **les dará propósito**. Esto no significa que los Hijos de Nal-Ur esperen recibir una misión o mandato de Dae'ra. El destino existe independientemente de que sea conocido. Puede ser imaginado, creado, interpretado, revelado o permanecer desconocido; al final de la vida, será aquello que finalmente ocurrió.
+
+La fe común no exige una interpretación idéntica. Orcos, Goblins, Hobgoblins y Bugbears desarrollaron matices, rituales y formas de relacionarse con la Trinidad propios. Lo que los une es la certeza de que **Nal-Ur, Garnok y Dae'ra existen**, independientemente de que una persona se considere bendecida, abandonada, puesta a prueba o simplemente indiferente ante ellos.
+
+### Historia religiosa
+
+Hace miles de años, la tradición de la Trinidad alcanzó suficiente aceptación entre Orcos, Goblins, Hobgoblins y Bugbears como para convertirse en un elemento de unificación entre los cuatro pueblos. La religión no eliminó sus diferencias culturales ni creó una sociedad homogénea; proporcionó un marco cosmológico compartido que permitió que pueblos distintos reconocieran una raíz espiritual común.
+
+La forma exacta en que esta tradición surgió, se expandió y logró unificar a los cuatro pueblos queda **PENDIENTE**.
+
+Las cuatro razas elementales poseen una cosmología ancestral de origen diferente y bien establecida. Sus vínculos con Viento, Fuego, Tierra y Agua no generan necesariamente conflicto con la Trinidad ni con las tradiciones religiosas humanas o de otros pueblos. Una explicación de origen y una tradición religiosa no tienen por qué excluirse mutuamente.
+
 ## 5. Espíritus elementales
 
 Los espíritus elementales son reales y son fuerzas naturales conscientes. Su funcionamiento conceptual se aproxima al sistema espiritual de *Avatar: The Last Airbender* y *The Legend of Korra*.
