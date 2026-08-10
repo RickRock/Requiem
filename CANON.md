@@ -6,13 +6,15 @@
 
 Requiem transcurre al final de la Era Fantástica. La magia arcana, antes fundamental para las civilizaciones del mundo, ha desaparecido casi por completo. La humanidad se ha convertido en la fuerza dominante y ha desarrollado ciencia, ingeniería y tecnología como respuesta a un mundo sin magia.
 
+Requiem no es una historia de héroes destinados a conquistar, redimir o salvar el mundo. Es una historia de pueblos que saben que el mundo que conocieron está desapareciendo y deben decidir qué merece ser protegido, recordado y transmitido. La memoria, el nombre y el legado pueden importar más que la supervivencia individual.
+
 La humanidad no es moralmente uniforme: existen humanos buenos, malos, neutrales, explotadores, esclavistas, abolicionistas, aliados y enemigos de las razas no humanas. No existe un villano humano único responsable de la transformación del mundo.
 
 ## 2. Fin de la Era Fantástica
 
 La Era Fantástica entró en decadencia progresivamente. La humanidad no inició ese proceso, pero sí lo aceleró y aprendió a prosperar mientras el mundo mágico desaparecía.
 
-Hace aproximadamente **60–65 años**, los Elfos abandonaron el mundo por razones y mediante un método que siguen siendo desconocidos. Con ellos desapareció la mayor parte de la magia arcana accesible.
+Hace aproximadamente **60 años**, los Elfos abandonaron el mundo por razones y mediante un método que siguen siendo desconocidos. Con ellos desapareció la mayor parte de la magia arcana accesible.
 
 Los Elfos dejaron atrás únicamente algunos objetos imbuidos de magia: artefactos que no pudieron recuperar o que consideraron demasiado poco importantes para llevarse. Estos objetos constituyen los principales vestigios de magia arcana.
 
@@ -25,6 +27,10 @@ Los Enanos no son jugables por ahora, pero forman parte importante del lore. Su 
 ## 3. Magia
 
 La magia arcana natural prácticamente ha desaparecido. La muy poca magia arcana restante solo puede realizarse mediante objetos mágicos capaces de canalizarla. La mecánica exacta queda **PENDIENTE**.
+
+La magia que queda no se siente como una herramienta abundante esperando ser utilizada. Es un residuo escaso de una época que terminó. Cada artefacto superviviente puede representar una reserva irrepetible de poder y, por ello, su utilización puede convertirse en una decisión con consecuencias duraderas.
+
+Entre los Hijos de Nal-Ur existe una filosofía particularmente fuerte de conservación: que un recurso pueda gastarse no significa que deba gastarse. Un artefacto puede conservarse durante generaciones para un nacimiento, una ceremonia, una evacuación o cualquier acto considerado esencial para la continuidad de la comunidad, aun cuando utilizarlo inmediatamente para una batalla pudiera ofrecer una ventaja mayor.
 
 La pérdida de la magia obligó a la humanidad a desarrollar alternativas: ciencia, tecnología, ingeniería y otras formas de conocimiento. La tecnología no fue creada originalmente para derrotar a la magia; se desarrolló porque la magia dejó de estar disponible.
 
@@ -52,6 +58,8 @@ La devoción de las tribus mantiene vivas y poderosas a estas fuerzas. En agrade
 
 Las fuerzas de la Trinidad no pueden intervenir directamente en el mundo físico. La razón exacta de esta limitación es **PENDIENTE / MISTERIO**.
 
+La fe no depende de que un individuo se considere favorecido. Una persona puede sentirse bendecida, abandonada, puesta a prueba o ignorada y continuar creyendo en la existencia de las tres fuerzas. La unidad religiosa nace de esa certeza compartida, no de una interpretación idéntica.
+
 ### Hijos de Nal-Ur
 
 Los **Orcos, Goblins, Hobgoblins y Bugbears** comparten el antiguo sobrenombre de **Hijos de Nal-Ur**. El término expresa una tradición cosmológica común, no superioridad sobre otras razas.
@@ -71,6 +79,12 @@ La fe común no exige una interpretación idéntica. Orcos, Goblins, Hobgoblins 
 Hace miles de años, la tradición de la Trinidad alcanzó suficiente aceptación entre Orcos, Goblins, Hobgoblins y Bugbears como para convertirse en un elemento de unificación entre los cuatro pueblos. La religión no eliminó sus diferencias culturales ni creó una sociedad homogénea; proporcionó un marco cosmológico compartido que permitió que pueblos distintos reconocieran una raíz espiritual común.
 
 La forma exacta en que esta tradición surgió, se expandió y logró unificar a los cuatro pueblos queda **PENDIENTE**.
+
+### Tradiciones y rituales
+
+Las prácticas religiosas concretas varían entre pueblos, clanes y familias. No existe un ritual universal obligatorio. El significado de los ritos puede centrarse en la relación entre el individuo, su comunidad y las tres prioridades de la Trinidad.
+
+Algunos ejemplos de rituales de iniciación pueden conservarse como herramientas para el Narrador y el Jugador, pero no constituyen canon obligatorio. Entre ellos se encuentran ceremonias de silencio ante el fuego, recorridos entre tres llamas que representan Familia, Honor y Destino, y ceremonias donde el iniciado pronuncia su nombre ante la comunidad y escucha la memoria de quienes lo precedieron.
 
 Las cuatro razas elementales poseen una cosmología ancestral de origen diferente y bien establecida. Sus vínculos con Viento, Fuego, Tierra y Agua no generan necesariamente conflicto con la Trinidad ni con las tradiciones religiosas humanas o de otros pueblos. Una explicación de origen y una tradición religiosa no tienen por qué excluirse mutuamente.
 
@@ -108,7 +122,7 @@ El lanzamiento de conjuros racial de las versiones originales de D&D queda sujet
 
 ### No jugables / lore
 
-- Elfos — desaparecidos hace aproximadamente 60–65 años.
+- Elfos — desaparecidos hace aproximadamente 60 años.
 - Gnomos — desaparecidos junto con el éxodo posterior a los Elfos.
 - Halflings — desaparecidos junto con el éxodo posterior a los Elfos.
 - Enanos — no jugables por ahora; importantes para el lore.
@@ -119,7 +133,15 @@ Parte de la humanidad todavía encuentra utilidad económica y social en las raz
 
 Esta situación no implica que todos los humanos la apoyen. La humanidad es moralmente diversa y el conflicto puede incluir tanto explotadores como personas que se oponen a estas prácticas.
 
-## 9. Kenku
+La explotación no aparece necesariamente de golpe. Puede presentarse como una progresión desde la reubicación y la supuesta "reeducación" hasta la pérdida de libertad, el encierro, los mercados y formas abiertas de esclavitud. Esta progresión debe tratarse como una herramienta narrativa y no como una conducta universal de la humanidad.
+
+## 9. Tema y legado
+
+Los pueblos de Requiem se enfrentan a la desaparición de un mundo. La respuesta de cada comunidad no tiene por qué ser heroica ni noble. Algunas lucharán, otras huirán, otras se adaptarán y otras intentarán conservar sus tradiciones hasta el último momento.
+
+La memoria ocupa un lugar central: nombres verdaderos, historias, rituales, objetos heredados y recuerdos de quienes ya no están pueden constituir formas de resistencia contra la desaparición.
+
+## 10. Kenku
 
 Los Kenku, Hijos del Viento, son una tribu libre. Siempre han vivido en sociedades propias y, hasta cierto punto, neutrales. Prefieren no involucrarse en conflictos ajenos, pero son conscientes de que el progreso humano también terminará alcanzándolos.
 
@@ -127,7 +149,7 @@ Su posición actual puede resumirse como una tensión entre evitar el conflicto 
 
 El resto de su historia, sociedad y relación con el progreso queda **PENDIENTE**.
 
-## 10. Lizardfolk
+## 11. Lizardfolk
 
 Los Lizardfolk, Hijos del Fuego, son una tribu libre y soberana. Tienen una actitud más favorable y curiosa hacia el progreso humano que los Kenku.
 
